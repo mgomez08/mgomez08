@@ -52,6 +52,13 @@ React Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de 
     <img align="left" width="400" src="https://camo.githubusercontent.com/324a4e70978b2cc1859923e1d90c70c45f0fc5b8160369d8d538a6c447876975/68747470733a2f2f692e696d6775722e636f6d2f366d493530776b2e706e67" />
 </a>
 
+<a href="https://appcalendar.vercel.app/">
+    <img align="left" width="400" src="https://i.imgur.com/cHKoqRx.png" />
+</a>
+<a href="https://appcalendar.vercel.app/">
+    <img align="left" width="400" src="https://i.imgur.com/ZJm2GsC.png">
+</a>
+
 <a href="https://mgomez08.github.io/Stats-Preview-Card-Component/">
     <img align="left" width="400" src="https://raw.githubusercontent.com/mgomez08/Stats-Preview-Card-Component/master/images/desktop-screenshot.JPG" />
 </a>
@@ -59,12 +66,6 @@ React Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de 
     <img align="left" width="400" src="https://raw.githubusercontent.com/mgomez08/Stats-Preview-Card-Component/master/images/mobile-screenshot.JPG">
 </a>
 
-<a href="https://appcalendar.vercel.app/">
-    <img align="left" width="400" src="https://i.imgur.com/cHKoqRx.png" />
-</a>
-<a href="https://appcalendar.vercel.app/">
-    <img align="left" width="400" src="https://i.imgur.com/ZJm2GsC.png">
-</a>
 
 <!---
 mgomez08/mgomez08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
