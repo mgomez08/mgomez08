@@ -34,10 +34,14 @@ React Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de 
 
 <h2>Mis mejores proyectos</h2>
 <p align="left">
-   <a href="https://github.com/mgomez08/animeapp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=animeapp&langs_count=5&theme=tokyonight"></a>
-  <a href="https://github.com/mgomez08/Stats-Preview-Card-Component"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&card_height=300&&repo=Stats-Preview-Card-Component&langs_count=5&layout=compact&theme=tokyonight"></a>
-  <a href="https://github.com/mgomez08/Calendar-Frontend"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=Calendar-Frontend&layout=compact&theme=tokyonight"></a>
-  <a href="https://github.com/mgomez08/heroes-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=heroes-app&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight"></a>
+   <a href="https://github.com/mgomez08/animeapp"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=animeapp&langs_count=5&theme=tokyonight">
+  </a>
+   <a href="https://github.com/mgomez08/Calendar-Frontend"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=Calendar-Frontend&layout=compact&theme=tokyonight">
+  </a>
+  <a href="https://github.com/mgomez08/Stats-Preview-Card-Component"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&card_height=300&&repo=Stats-Preview-Card-Component&langs_count=5&layout=compact&theme=tokyonight">
+  </a>
+  <a href="https://github.com/mgomez08/heroes-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=mgomez08&repo=heroes-app&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
+  </a>
 </p>  
 
 <h2>Screenshots de los proyectos</h2>
@@ -53,6 +57,13 @@ React Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de 
 </a>
 <a href="https://mgomez08.github.io/Stats-Preview-Card-Component/">
     <img align="left" width="400" src="https://raw.githubusercontent.com/mgomez08/Stats-Preview-Card-Component/master/images/mobile-screenshot.JPG">
+</a>
+
+<a href="https://appcalendar.vercel.app/">
+    <img align="left" width="400" src="https://i.imgur.com/cHKoqRx.png" />
+</a>
+<a href="https://appcalendar.vercel.app/">
+    <img align="left" width="400" src="https://i.imgur.com/ZJm2GsC.png">
 </a>
 
 <!---
