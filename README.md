@@ -12,7 +12,7 @@ Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de Sistem
   <img  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img  alt="Redux" width="40px" src="https://www.ux-republic.com/wp-content/uploads/2016/11/logo-redux.png" />
   <img  alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-   <img  alt="Axios" width="40px" src="https://axios-http.com/assets/favicon.ico" />
+   <img  alt="Axios" width="90px" src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" />
 </div> 
 <br />
 <div align="center">
