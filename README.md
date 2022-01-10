@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Marlon Gómez</h1>
 </div>
 
-Como Frontend Developer,  generar valor a las personas a través del Desarrollo Web, empleando mis conocimientos y aptitudes obtenidas con mis proyectos personales.
+Como Frontend Developer, genero valor a las personas a través del Desarrollo Web, empleando mis conocimientos y aptitudes obtenidas con mis proyectos personales.
 <br />
 <p align="center">Lenguajes y herramientas que uso: </p>
 <div align="center">
