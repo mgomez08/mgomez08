@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Marlon Gómez</h1>
 </div>
 
-Frontend Developer en continúo aprendizaje, estudiante de Ingeniería de Sistemas, interesado por el ecosistema del Desarrollo Web y sus tecnologías.
+Como Frontend Developer,  generar valor a las personas a través del Desarrollo Web, empleando mis conocimientos y aptitudes obtenidas con mis proyectos personales.
 <br />
 <p align="center">Lenguajes y herramientas que uso: </p>
 <div align="center">
