@@ -17,9 +17,6 @@ Como Frontend Developer, genero valor a las personas a través del Desarrollo We
 <br />
 <div align="center">
   <h2>Contacta conmigo</h2>
-  <a href="https://twitter.com/Mago_Dev">
-    <img align="center" alt="Marlon Gómez | Twitter" width="52px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />
-  </a>
   <a href="https://www.linkedin.com/in/marlon-gomez-78abb519a/">
     <img align="center" alt="Marlon Gómez | LinkedIn" width="52px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
